@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favorite_movies"
+        android:title="Your Must Watch Movies" />
+    <item
+        android:id="@+id/popular"
+        android:title="Get Popular Movies" />
+    <item
+        android:id="@+id/running"
+        android:title="Get Running Movies" />
+    <item
+        android:id="@+id/upcoming"
+        android:title="Get Upcoming Movies" />
+</menu>
